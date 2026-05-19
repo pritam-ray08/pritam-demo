@@ -1,4 +1,4 @@
 # pritam-demo
-This is my first Git Eepository
+This is my first Git Repository
 <br>
 Author-Pritam Ray
