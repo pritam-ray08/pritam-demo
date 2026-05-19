@@ -1,4 +1,4 @@
 # pritam-demo
 This is my first Git Repository
 <br>
-Author-Pritam Ray
+Author-Pritam Ray (apna college)
